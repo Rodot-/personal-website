@@ -16,10 +16,10 @@ defaults:
       layout: "post"
 
 topics:
-  - name: Optical and Radio Time-Domain Astronomy
+  - name: Time-Domain Astronomy
 
   - name: Compact Objects
 
-  - name: Data Science
+  - name: Machine Learning
 
 theme: jekyll-theme-midnight
